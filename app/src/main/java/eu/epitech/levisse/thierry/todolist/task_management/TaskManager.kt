@@ -16,6 +16,9 @@ import java.util.*
 interface TaskManager {
     fun switchDatetime()
 
+    fun galleryButton()
+    fun cameraButton()
+
     fun dateDialog()
     fun updateDateText(year: Int, month: Int, day: Int)
 
