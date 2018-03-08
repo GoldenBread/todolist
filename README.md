@@ -8,4 +8,4 @@ Todolist app for android in Kotlin
  * Swipe "In progress" task to set to "Done"
  * Swipe "Done" task to delete
  
-Camera & frequency not working
+Frequency not working
