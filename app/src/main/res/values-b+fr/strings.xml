@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">todolist</string>
+    <string name="action_delete_all">Supprimer toutes les tâches</string>
+    <string name="title_activity_login">Nouvelle tâche</string>
+
+    <string name="title_activity_new_task">Nouvelle tâche</string>
+    <string name="title_activity_edit_task">Editer une tâche</string>
+    <string name="header_add_task">Ajouter une tâche</string>
+    <string name="header_edit_task">Editer une tâche</string>
+
+    <string name="Open">Ouvert</string>
+    <string name="Close">Fermer</string>
+    <string name="app_title">Todolist</string>
+    <string name="from_gallery">Gallerie</string>
+    <string name="from_camera">Caméra</string>
+    <string name="set_a_deadline">Écheance</string>
+    <string name="frequence">Fréquence :</string>
+    <string name="one_time">Ponctuelle</string>
+    <string name="daily">Journalière</string>
+    <string name="save_task">Sauvegarder</string>
+    <string name="select_image">Illustration :</string>
+    <string name="title">Titre</string>
+    <string name="description">Description</string>
+    <string name="in_progress">En cours</string>
+    <string name="done">Réalisée(s)</string>
+    <string name="until">Jusqu\'au :</string>
+
+</resources>
