@@ -1,7 +1,7 @@
 # todolist
 Todolist app for android in Kotlin
 
-**COMMANDS**
+**GESTURES**
 
  * "+" button to add a new task
  * Long press on a task to edit
